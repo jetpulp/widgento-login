@@ -3,3 +3,4 @@ app/design/adminhtml/default/default/layout/widgentologin.xml app/design/adminht
 app/etc/modules/Widgento_Login.xml app/etc/modules/Widgento_Login.xml
 app/locale/de_DE/Widgento_Login.csv app/locale/de_DE/Widgento_Login.csv
 app/locale/en_US/Widgento_Login.csv app/locale/en_US/Widgento_Login.csv
+app/locale/fr_FR/Widgento_Login.csv app/locale/fr_FR/Widgento_Login.csv
